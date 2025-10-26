@@ -24,11 +24,11 @@ I love solving problems and I am very motivated to do what I do.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Hardening and Malware Testing          | <a href="https://github.com/Simenco">Check this Project</a>|
-| Threat Detection and SIEM | <a href="https://github.com/Simenco">Check this Project</a>|
-| Web App Security         | <a href="https://github.com/Simenco">Check this Project</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Simenco">Check this Project</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Simenco">Check this Project</a>|
+| System Hardening and Malware Testing          | <a href="https://github.com/Simenco">Check My Project</a>|
+| Threat Detection and SIEM | <a href="https://github.com/Simenco">Check My Project</a>|
+| Web App Security         | <a href="https://github.com/Simenco">Check My Project</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Simenco">Check My Project</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Simenco">Check My Project</a>|
 
 ---
 
